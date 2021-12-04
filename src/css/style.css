@@ -63,3 +63,160 @@ nav{
     color: #697784;
     font-size: 15px;
 }
+
+.about___conteiner{
+    text-align: center;
+    background: url(../img/h.png) 50% 22%/auto 0.8% no-repeat, white;
+}
+
+.about___conteiner h2{
+    text-transform: uppercase;
+    font-size: 32px;
+    padding: 100px 0 30px 0;
+}
+
+.about___conteiner img{
+    margin: 60px 0 26px 0;
+    border-radius: 90px 90px;
+    max-height: 200px;
+    max-width: 200px;
+}
+
+.about___conteiner p{
+    margin-left: 596px;
+    margin-right: 596px;
+    font-size: 20px;
+}
+
+.resume img{
+    margin: auto;
+    padding: 1px 1px 1px 1px; 
+    max-height: 24px;
+    max-width: 157px;
+}
+
+.resume{
+    margin: 34px 0 0 876px;
+    align-items: center;
+    max-height: 40px;
+    max-width: 156px;
+    border: 3px solid #6f707e;
+    border-radius: 5px;
+}
+
+.resume input{
+    margin: 3px 0;
+    background-color: white;
+    color: #6f707e;
+    font-size: 16px;
+}
+
+.skills{
+    margin-top: 97px;
+    height: 523px;
+    background: url(../img/h.png) 50% 29%/auto 1% no-repeat, url(../img/fon_skiils.png) center/cover no-repeat;
+    text-align: center;
+}
+
+.skills___conteiner h2{
+    text-transform: uppercase;
+    font-size: 32px;
+    padding: 108px 0 136px 0;
+}
+
+.skill h4{
+    margin: 34px 0 20px 0;
+    font-size: 28px;
+    color: #cf7600;
+    font-weight: 500;
+}
+
+.skill p{
+    margin:0 750px 0 750px;
+    font-size: 20px;
+}
+
+.data_case{
+    align-content: flex-start;
+}
+
+.cases___conteiner{
+    background: url(../img/h.png) 50% 13%/auto 0.4% no-repeat, white;
+}
+
+.cases___conteiner h2{
+    margin-left: 890px;
+    text-transform: uppercase;
+    font-size: 32px;
+    padding: 108px 0 0 0;
+}
+
+.cases___conteiner p{
+    text-align: center;
+    margin: 72px 0 37px 0;
+    font-size: 20px;
+}
+
+.case img{
+    margin-left: 220px 
+}
+
+.case h3{
+    margin-left: 220px;
+    text-transform: uppercase;
+    font-size: 28px;
+    padding:0 0 0 0;
+}
+
+.case p{
+    margin: 10px 1400px 10px 0;
+}
+
+.case a{
+    margin-left: 220px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.web{
+    margin-left: 220px;
+    padding: 16px 44px 16px 44px;
+    font-size: 20px;
+    border: 1px solid #63b5ae;
+    border-radius: 5px;
+    background: #63b5ae;
+    color: snow;
+    text-transform: uppercase
+}
+
+.cash___conteiner h2{
+    font-size: 32px;
+    margin: 200px 0 0 800px;
+}
+
+
+.cash___conteiner h3{
+    font-size: 22px;
+    margin: 58px 0 0 500px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
